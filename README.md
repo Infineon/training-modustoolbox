@@ -12,7 +12,10 @@ The level 1 getting started class covers the basic concepts and building blocks 
 
 [ModusToolbox™ Software Training Level 2 – PSoC™ MCUs](https://github.com/infineon/training-modustoolbox-level2-psoc)
 
-- This is a second level ModusToolbox™ training class. It covers PSoC™ 6 and PSoC™ 4 MCUs.
+- This is a 2nd level ModusToolbox™ training class. It covers PSoC™ 6 and PSoC™ 4 MCUs.
+
+- The material and examples demonstrate the use of peripherals such as GPIOs, PWMs, ADCs,
+UARTs, etc. CAPSENSE™ and DMA are covered in detail, as is the use of low power modes.
 
 [ModusToolbox™ Software Training Level 3 - Wi-Fi](https://github.com/infineon/training-modustoolbox-level3-wifi)
 
