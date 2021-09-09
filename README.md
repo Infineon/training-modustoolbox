@@ -10,14 +10,14 @@ The level 1 getting started class covers the basic concepts and building blocks 
 
 - This class is a survey of the ModusToolbox™ development platform.  The learning objective is to introduce you to all the tools in the ModusToolbox™ ecosystem and help you develop some familiarity with using them.  The class is “a mile wide and an inch deep.”  This should enable you to understand the scope of the development ecosystem and teach you where to find “everything.”
 
-[ModusToolbox™ Software Training Level 2 – PSoC™ MCUs](https://github.com/infineon/training-modustoolbox-level2-psoc)
+**Under Construction:** [ModusToolbox™ Software Training Level 2 – PSoC™ MCUs](https://github.com/infineon/training-modustoolbox-level2-psoc)
 
 - This is a 2nd level ModusToolbox™ training class. It covers PSoC™ 6 and PSoC™ 4 MCUs.
 
 - The material and examples demonstrate the use of peripherals such as GPIOs, PWMs, ADCs,
 UARTs, etc. CAPSENSE™ and DMA are covered in detail, as is the use of low power modes.
 
-[ModusToolbox™ Software Training Level 3 - Bluetooth®](https://github.com/infineon/training-modustoolbox-level3-bluetooth)
+**Under Construction:** [ModusToolbox™ Software Training Level 3 - Bluetooth®](https://github.com/infineon/training-modustoolbox-level3-bluetooth)
 
 - This is a class to teach how to use Bluetooth® Low Energy in ModusToolbox™ applications. The descriptions and exercises use a PSoC™ 6 MCU as a host to a CYW43012 connectivity device.
 
