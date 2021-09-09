@@ -17,16 +17,16 @@ The level 1 getting started class covers the basic concepts and building blocks 
 - The material and examples demonstrate the use of peripherals such as GPIOs, PWMs, ADCs,
 UARTs, etc. CAPSENSE™ and DMA are covered in detail, as is the use of low power modes.
 
-[ModusToolbox™ Software Training Level 3 - Wi-Fi](https://github.com/infineon/training-modustoolbox-level3-wifi)
-
-- This is a class to teach how to use Wi-Fi in ModusToolbox™ applications. The descriptions and exercises use a PSoC™ 6 MCU as a host to a CYW43012 connectivity device.
-
 [ModusToolbox™ Software Training Level 3 - Bluetooth®](https://github.com/infineon/training-modustoolbox-level3-bluetooth)
 
 - This is a class to teach how to use Bluetooth® Low Energy in ModusToolbox™ applications. The descriptions and exercises use a PSoC™ 6 MCU as a host to a CYW43012 connectivity device.
 
 - After completing this class, you should be able to create and debug full Bluetooth® applications using the ModusToolbox™ ecosystem including peripherals, centrals, and beacons.
 
-[ModusToolbox™ Software Training Level 3 - Bluetooth® Mesh](https://github.com/infineon/training-modustoolbox-level3-bluetooth-mesh)
+**Under Construction:** [ModusToolbox™ Software Training Level 3 - Wi-Fi](https://github.com/infineon/training-modustoolbox-level3-wifi)
+
+- This is a class to teach how to use Wi-Fi in ModusToolbox™ applications. The descriptions and exercises use a PSoC™ 6 MCU as a host to a CYW43012 connectivity device.
+
+**Under Construction:** [ModusToolbox™ Software Training Level 3 - Bluetooth® Mesh](https://github.com/infineon/training-modustoolbox-level3-bluetooth-mesh)
 
 - This is a class to teach how to use Bluetooth® mesh in ModusToolbox™ applications. The descriptions and exercises use a PSoC™ 6 MCU as a host to a CYW43012 connectivity device.
