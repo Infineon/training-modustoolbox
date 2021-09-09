@@ -26,7 +26,3 @@ UARTs, etc. CAPSENSE™ and DMA are covered in detail, as is the use of low powe
 **Under Construction:** [ModusToolbox™ Software Training Level 3 - Wi-Fi](https://github.com/infineon/training-modustoolbox-level3-wifi)
 
 - This is a class to teach how to use Wi-Fi in ModusToolbox™ applications. The descriptions and exercises use a PSoC™ 6 MCU as a host to a CYW43012 connectivity device.
-
-**Under Construction:** [ModusToolbox™ Software Training Level 3 - Bluetooth® Mesh](https://github.com/infineon/training-modustoolbox-level3-bluetooth-mesh)
-
-- This is a class to teach how to use Bluetooth® mesh in ModusToolbox™ applications. The descriptions and exercises use a PSoC™ 6 MCU as a host to a CYW43012 connectivity device.
