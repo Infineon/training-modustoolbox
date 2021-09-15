@@ -10,7 +10,7 @@ The level 1 getting started class covers the basic concepts and building blocks 
 
 - This class is a survey of the ModusToolbox™ development platform.  The learning objective is to introduce you to all the tools in the ModusToolbox™ ecosystem and help you develop some familiarity with using them.  The class is “a mile wide and an inch deep.”  This should enable you to understand the scope of the development ecosystem and teach you where to find “everything.”
 
-**Under Construction:** [ModusToolbox™ Software Training Level 2 – PSoC™ MCUs](https://github.com/infineon/training-modustoolbox-level2-psoc)
+[ModusToolbox™ Software Training Level 2 – PSoC™ MCUs](https://github.com/infineon/training-modustoolbox-level2-psoc)
 
 - This is a 2nd level ModusToolbox™ training class. It covers PSoC™ 6 and PSoC™ 4 MCUs.
 
