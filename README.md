@@ -25,6 +25,6 @@ UARTs, etc. CAPSENSE™ and DMA are covered in detail, as is the use of low powe
 
 - This class does **not** cover Bluetooth SOC applications using PSoC 63 BLE devices.
 
-**Under Construction:** [ModusToolbox™ Software Training Level 3 - Wi-Fi](https://github.com/infineon/training-modustoolbox-level3-wifi)
+[ModusToolbox™ Software Training Level 3 - Wi-Fi](https://github.com/infineon/training-modustoolbox-level3-wifi)
 
 - This is a class to teach how to use Wi-Fi in ModusToolbox™ applications. The descriptions and exercises use a PSoC™ 6 MCU as a host to a CYW43012 connectivity device.
