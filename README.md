@@ -4,6 +4,8 @@ This page contains links to ModusToolbox™ training classes that are available 
 
 The level 1 getting started class covers the basic concepts and building blocks of ModusToolbox™. Level 2 classes cover a product or product family such as PSoC™. Level 3 classes cover more advanced systems such as Bluetooth®, Wi-Fi, or Machine Learning.
 
+![](ClassChart.jpg)
+
 [ModusToolbox™ Software Training Level 1 - Getting Started](https://github.com/infineon/training-modustoolbox-level1-getting-started)
 
 - This is the entry-level ModusToolbox™ training class. It is a pre-requisite for all level 2 and level 3 ModusToolbox™ training classes.
