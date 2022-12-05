@@ -37,3 +37,11 @@ UARTs, etc. The use of low power modes is also covered.
 [ModusToolbox™ Software Training Level 3 - Wi-Fi](https://github.com/infineon/training-modustoolbox-level3-wifi)
 
 - This is a class to teach how to use Wi-Fi in ModusToolbox™ applications. The descriptions and exercises use a PSoC™ 6 MCU as a host to a CYW43012 connectivity device.
+
+[ModusToolbox™ Software Training Level 3 - Machine Learning](https://github.com/infineon/training-modustoolbox-level3-machine-learning)
+
+- This is a class to teach how to use the ModusToolbox™ Machine Learning solution. The descriptions and exercises use a PSoC™ 6 MCU along with motion sensors and microphones to develop IoT applications for gesture detection, keyword detection, etc.
+
+- After completing this class, you should be able to create and debug machine learning applications using ModusToolbox™. Several Infineon machine learning partners are also discussed.
+
+- The ModusToolbox™ Machine Learning Technology Pack must be installed to complete the exercises in this class.
