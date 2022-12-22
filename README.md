@@ -12,6 +12,7 @@ The level 1 getting started class covers the basic concepts and building blocks 
 
 - This class is a survey of the ModusToolbox™ development platform.  The learning objective is to introduce you to all the tools in the ModusToolbox™ ecosystem and help you develop some familiarity with using them.  The class is “a mile wide and an inch deep.”  This should enable you to understand the scope of the development ecosystem and teach you where to find “everything.”
 
+
 [ModusToolbox™ Software Training Level 2 – PSoC™ MCUs](https://github.com/infineon/training-modustoolbox-level2-psoc)
 
 - This is a 2nd level ModusToolbox™ training class. It covers PSoC™ 6 and PSoC™ 4 MCUs.
@@ -19,12 +20,22 @@ The level 1 getting started class covers the basic concepts and building blocks 
 - The material and examples demonstrate the use of peripherals such as GPIOs, PWMs, ADCs,
 UARTs, etc. CAPSENSE™ and DMA are covered in detail, as is the use of low power modes.
 
+
+[ModusToolbox™ Software Training Level 2 – XMC7000 MCUs](https://github.com/infineon/training-modustoolbox-level2-xmc7x)
+
+- This is a 2nd level ModusToolbox™ training class. It covers XMC7000 MCUs.
+
+- The material and examples demonstrate the use of peripherals such as GPIO, PWM, ADC, UART, I2C, and SPI. Some examples use
+sensors from a separate shield board. The class also covers RTOS, DMA and how multicore pplications work.
+
+
 [ModusToolbox™ Software Training Level 2 – AIROC™ Bluetooth® SDK (BTSDK) MCUs](https://github.com/infineon/training-modustoolbox-level2-btsdk)
 
 - This is a 2nd level ModusToolbox™ training class. It covers MCUs using the BTSDK API including the CYW20819, CYW20820, CYW20835, and CYW43012 (in embedded mode).
 
 - The material and examples demonstrate the use of peripherals such as GPIOs, PWMs, ADCs,
 UARTs, etc. The use of low power modes is also covered.
+
 
 [ModusToolbox™ Software Training Level3 Bluetooth® Type1 and Type2](https://github.com/infineon/training-modustoolbox-level3-bluetooth)
 
@@ -34,9 +45,11 @@ UARTs, etc. The use of low power modes is also covered.
 
 - This class does **not** cover Bluetooth SOC applications using PSoC 63 BLE devices.
 
+
 [ModusToolbox™ Software Training Level 3 - Wi-Fi](https://github.com/infineon/training-modustoolbox-level3-wifi)
 
 - This is a class to teach how to use Wi-Fi in ModusToolbox™ applications. The descriptions and exercises use a PSoC™ 6 MCU as a host to a CYW43012 connectivity device.
+
 
 [ModusToolbox™ Software Training Level 3 - Machine Learning](https://github.com/infineon/training-modustoolbox-level3-machine-learning)
 
