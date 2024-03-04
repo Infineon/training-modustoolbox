@@ -13,9 +13,9 @@ The level 1 getting started class covers the basic concepts and building blocks 
 - This class is a survey of the ModusToolbox™ development platform.  The learning objective is to introduce you to all the tools in the ModusToolbox™ ecosystem and help you develop some familiarity with using them.  The class is “a mile wide and an inch deep.”  This should enable you to understand the scope of the development ecosystem and teach you where to find “everything.”
 
 
-[ModusToolbox™ Software Training Level 2 – PSoC™ MCUs](https://github.com/infineon/training-modustoolbox-level2-psoc)
+[ModusToolbox™ Software Training Level 2 – CAT 1 & 2 MCUs](https://github.com/infineon/training-modustoolbox-level2-psoc)
 
-- This is a 2nd level ModusToolbox™ training class. It covers PSoC™ 6 and PSoC™ 4 MCUs.
+- This is a 2nd level ModusToolbox™ training class. It covers CAT1 and CAT 2 MCUs which includes PSoC™ 6, PSoC™ 4 and CYW20829.
 
 - The material and examples demonstrate the use of peripherals such as GPIOs, PWMs, ADCs,
 UARTs, etc. CAPSENSE™ and DMA are covered in detail, as is the use of low power modes.
@@ -39,7 +39,7 @@ UARTs, etc. The use of low power modes is also covered.
 
 [ModusToolbox™ Software Training Level3 Bluetooth® Type1 and Type2](https://github.com/infineon/training-modustoolbox-level3-bluetooth)
 
-- This is a pair of classes to teach how to use Bluetooth® Low Energy in ModusToolbox™ applications. The Type1 class applies to MCUs that support the mtb-hal-cat* hardware abstraction library (such as PSoC™ 6 + CYW43012). The Type2 class applies to MCUs that support the AIROC™ Bluetooth® SDK (such as CYW20835). While the interaction with the MCU is different, the basic Bluetooth® operation is the same in both classes, so you can choose whichever one best suits your needs.
+- This is a pair of classes to teach how to use Bluetooth® Low Energy in ModusToolbox™ applications. The Type1 class applies to AIROC™ Bluetooth® devices paired with an external host (such as CYW43012 + PSoC™ 6) and AIROC™ Bluetooth® devices with two MCUs (such as PSoC™ 63 and CYW20829). The Type2 class applies to AIROC™ Bluetooth® devices with a single MCU (such as CYW20835). While the interaction with the MCU is different, the basic Bluetooth® operation is the same in both classes, so you can choose whichever one best suits your needs.
 
 - After completing either of these classes, you should be able to create and debug full Bluetooth® applications using the ModusToolbox™ ecosystem including peripherals, centrals, and beacons.
 
