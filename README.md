@@ -21,9 +21,9 @@ The level 1 getting started class covers the basic concepts and building blocks 
 UARTs, etc. CAPSENSE™ and DMA are covered in detail, as is the use of low power modes.
 
 
-[ModusToolbox™ Software Training Level 2 – XMC7000 MCUs](https://github.com/infineon/training-modustoolbox-level2-xmc7x)
+[ModusToolbox™ Software Training Level 2 – XMC7000 and TRAVEO T2G MCUs](https://github.com/infineon/training-modustoolbox-level2-xmc7x)
 
-- This is a 2nd level ModusToolbox™ training class. It covers XMC7000 MCUs.
+- This is a 2nd level ModusToolbox™ training class. It covers XMC7000 and TRAVEO™ T2G MCUs.
 
 - The material and examples demonstrate the use of peripherals such as GPIO, PWM, ADC, UART, I2C, and SPI. Some examples use
 sensors from a separate shield board. The class also covers RTOS, DMA and how multicore pplications work.
