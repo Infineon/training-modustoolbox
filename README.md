@@ -45,3 +45,5 @@ This page contains links to ModusToolbox™ training classes that are available 
 - [PSOC™ Edge getting started](https://github.com/Infineon/mtb-training-psoc-edge-e84-intro-ecosystem) - This session covers everything you need to begin developing with PSOC™ Edge E84, including hardware and software tools, as well as development resources. 
 
 - [PSOC™ Edge technical introduction](https://github.com/Infineon/mtb-training-psoc-edge-e84-features) - This training provides an introduction to key features of the PSOC™ E84 microcontrollers, including audio, graphics, sensor hub, memories, low power modes, and machine learning. 
+
+- [PSOC™ Edge Security Introduction](https://github.com/Infineon/mtb-training-psoc-edge-security-intro) - This training provides an introduction to fundamental security concepts, including cryptography basics, IoT security, and security threats; and then it explores the security features available in PSOC™ Edge, providing practical experience using Edge Protect Tools, provisioning the device, and enabling secured boot.
