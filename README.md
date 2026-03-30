@@ -20,7 +20,15 @@ This page contains links to ModusToolbox™ training classes that are available 
 
 - [PSOC™ Edge technical introduction](https://github.com/Infineon/mtb-training-psoc-edge-e84-features) - This training provides an introduction to key features of the PSOC™ E84 microcontrollers, including audio, graphics, sensor hub, memories, low power modes, and machine learning. 
 
+- [PSOC™ Edge memory usage](https://github.com/Infineon/mtb-training-psoc-edge-memory-usage) - This training introduces the PSOC™ Edge memory architecture and its key memory technologies, with a focus on low-power design. Hands-on labs demonstrate common memory management tasks, including placing code and data in specific memory sections and configuring memory retention.
+
+- [PSOC™ Edge importing and profiling a pretrained ML model](https://github.com/Infineon/mtb-training-psoc-edge-ml-importing-profiling) - This training covers optimizing neural network models for PSOC™ Edge devices, using techniques like pruning, sparsity, and quantization to reduce model size and improve efficiency. Hands-on labs demonstrate how these optimizations can significantly lower power consumption and improve performance.
+
 - [PSOC™ Edge Security Introduction](https://github.com/Infineon/mtb-training-psoc-edge-security-intro) - This training provides an introduction to fundamental security concepts, including cryptography basics, IoT security, and security threats; and then it explores the security features available in PSOC™ Edge, providing practical experience using Edge Protect Tools, provisioning the device, and enabling secured boot.
+
+ - [PSOC™ Edge designing a secure system](https://github.com/Infineon/mtb-training-psoc-edge-security-system-design) - This training provides an overview of security strategies and best practices for designing secure embedded systems with PSOC™ Edge devices. It covers key concepts including threat modeling, hardware and software protection, secure boot, and encryption, guiding engineers in implementing robust security to protect embedded applications.
+
+ - [PSOC™ Edge tips and tricks for security](https://github.com/Infineon/mtb-training-psoc-edge-security-tips-tricks) - This training offers practical tips and tricks for using secure features on PSOC™ Edge devices, covering topics such as accessing peripherals in the secure CM33 environment, booting from OSPI flash, and using the alternate serial interface, with links to relevant code examples and resources.
 
  - [PSOC™ Edge Extended Boot](https://github.com/Infineon/mtb-training-psoc-edge-security-extended-boot) - This session introduces Extended Boot, explaining its function within the hardware Root of Trust. Participants will learn how it verifies and launches RRAM_SE_BOOT and Extended Boot stored in the device’s RRAM. The training also explores Secure Boot capabilities and demonstrates how Edge Protect Tools can be used to provision PSOC™ Edge devices.
 
