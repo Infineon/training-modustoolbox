@@ -10,19 +10,29 @@ This page contains links to ModusToolbox™ training classes that are available 
 
 - [Infineon Academy](https://infineon-academy.csod.com/ui/lms-learner-search/search?pageNumber=1&query=Modustoolbox) - This is a link to the Infineon Academy page. Here you'll find videos about ModusToolbox™, as well as many other Infineon products and services.
 
+## Application-focused training
+
+### Edge AI and machine learning
+
+- [DEEPCRAFT™ Studio](https://developer.imagimob.com/deepcraft-studio/tutorials/training-manual) - This training introduces the end-to-end DEEPCRAFT™ Studio workflow for collecting and labeling data, building and evaluating custom Edge AI models, generating code, and deploying models to Infineon microcontrollers.
+
+- [DEEPCRAFT™ Model Converter](https://developer.imagimob.com/deepcraft-model-converter/training-manual) - This training shows how to import, optimize, validate, and generate deployment code for pre-trained AI models targeting Infineon microcontrollers.
+
 ## Device-focused training
 
 ### PSOC™ Edge
 
 - [PSOC™ Edge introduction](https://github.com/Infineon/mtb-training-psoc-edge-e84-introduction) - The training provides an introduction to PSOC™ Edge. It provides an overview of the features and capabilities of PSOC™ Edge, including its hardware-assisted Machine Learning/Machine Intelligence (ML/ML) and artificial intelligence (AI) capabilities, sensor fusion, and real-time control. 
 
-- [PSOC™ Edge getting started](https://github.com/Infineon/mtb-training-psoc-edge-e84-intro-ecosystem) - This session covers everything you need to begin developing with PSOC™ Edge E84, including hardware and software tools, as well as development resources. 
+- [PSOC™ Edge getting started](https://github.com/Infineon/mtb-training-psoc-edge-e84-intro-ecosystem) - This session covers everything you need to begin developing with PSOC™ Edge E84, including hardware and software tools, as well as development resources.
 
 - [PSOC™ Edge technical introduction](https://github.com/Infineon/mtb-training-psoc-edge-e84-features) - This training provides an introduction to key features of the PSOC™ E84 microcontrollers, including audio, graphics, sensor hub, memories, low power modes, and machine learning. 
 
 - [PSOC™ Edge memory usage](https://github.com/Infineon/mtb-training-psoc-edge-memory-usage) - This training introduces the PSOC™ Edge memory architecture and its key memory technologies, with a focus on low-power design. Hands-on labs demonstrate common memory management tasks, including placing code and data in specific memory sections and configuring memory retention.
 
 - [PSOC™ Edge importing and profiling a pretrained ML model](https://github.com/Infineon/mtb-training-psoc-edge-ml-importing-profiling) - This training covers optimizing neural network models for PSOC™ Edge devices, using techniques like pruning, sparsity, and quantization to reduce model size and improve efficiency. Hands-on labs demonstrate how these optimizations can significantly lower power consumption and improve performance.
+
+- [PSOC™ Edge implementing advanced graphics (https://github.com/Infineon/mtb-training-psoc-edge-graphics) - This training provides a practical introduction to advanced graphics development on PSOC™ Edge, focusing on graphics debugging, image compression with RLAD, GUI workflows with EEZ Studio and LVGL, and performance optimization using GPU acceleration. The session includes hands-on labs that guide you from bring-up and rendering fundamentals to measurable FPS improvements in real-time UI applications.
 
 - [PSOC™ Edge Security Introduction](https://github.com/Infineon/mtb-training-psoc-edge-security-intro) - This training provides an introduction to fundamental security concepts, including cryptography basics, IoT security, and security threats; and then it explores the security features available in PSOC™ Edge, providing practical experience using Edge Protect Tools, provisioning the device, and enabling secured boot.
 
