@@ -38,6 +38,8 @@ This page contains links to ModusToolbox™ training classes that are available 
 
  - [PSOC™ Edge designing a secure system](https://github.com/Infineon/mtb-training-psoc-edge-security-system-design) - This training provides an overview of security strategies and best practices for designing secure embedded systems with PSOC™ Edge devices. It covers key concepts including threat modeling, hardware and software protection, secure boot, and encryption, guiding engineers in implementing robust security to protect embedded applications.
 
+ - [PSOC™ Edge EPC2 vs EPC4 security features](https://github.com/Infineon/mtb-training-psoc-edge-security-epc2-vs-epc4) - This training provides an overview of the Infineon Edge Protect Category (EPC) security levels and compares the security features of PSOC™ Edge EPC2 and EPC4 devices. It focuses on the hardware-isolated Secure Enclave, security services, PSA certification levels, key storage, RRAM usage, protection-context switching, TF-M storage, and encryption support.
+
  - [PSOC™ Edge tips and tricks for security](https://github.com/Infineon/mtb-training-psoc-edge-security-tips-tricks) - This training offers practical tips and tricks for using secure features on PSOC™ Edge devices, covering topics such as accessing peripherals in the secure CM33 environment, booting from OSPI flash, and using the alternate serial interface, with links to relevant code examples and resources.
 
  - [PSOC™ Edge Extended Boot](https://github.com/Infineon/mtb-training-psoc-edge-security-extended-boot) - This session introduces Extended Boot, explaining its function within the hardware Root of Trust. Participants will learn how it verifies and launches RRAM_SE_BOOT and Extended Boot stored in the device’s RRAM. The training also explores Secure Boot capabilities and demonstrates how Edge Protect Tools can be used to provision PSOC™ Edge devices.
@@ -47,6 +49,8 @@ This page contains links to ModusToolbox™ training classes that are available 
  - [PSOC™ Edge Trusted Firmware-M (TF-M)](https://github.com/Infineon/mtb-training-psoc-edge-security-tfm) - This module examines the TF-M architecture on PSOC™ Edge, detailing boot flow, isolation levels, profiles, and available services. It covers default TF-M settings, application integration, and customization using the Edge Protect Configurator.
 
  - [PSOC™ Edge Encryption](https://github.com/Infineon/mtb-training-psoc-edge-security-encryption) - This session focuses on encryption features for PSOC™ Edge, including single-key XIP encryption, multi-key XIP encryption, and secure encryption techniques. It concludes with a practical lab on enabling encryption through the Edge Protect Bootloader.
+
+ - [PSOC™ Edge EPC2 vs EPC4 security features](https://github.com/Infineon/mtb-training-psoc-edge-security-epc2-vs-epc4) - This training provides an overview of the Infineon Edge Protect Category (EPC) security levels and compares the security features of PSOC™ Edge EPC2 and EPC4 devices. It focuses on the hardware-isolated Secure Enclave, security services, PSA certification levels, key storage, RRAM usage, protection-context switching, TF-M storage, and encryption support.
 
 ### PSOC™ 4
 
